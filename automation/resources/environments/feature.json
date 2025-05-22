@@ -1,23 +1,20 @@
 {
     "feature_name" : "*{feature_name}-{layer_name}",
-    "capacity_name": "MyCapacity",
+    "capacity_name": "bbvjvpowerfabricf64a",
     "git_settings": {
         "gitProviderDetails": {
             "gitProviderType": "GitHub",
-            "ownerName": "MyGitHubProfile",
-            "repositoryName": "MyGitHubRepo"
+            "ownerName": "Balfour-Beatty-Vinci-Joint-Venture",
+            "repositoryName": "FabricAutomation"
         },
         "myGitCredentials": {
             "source": "ConfiguredConnection",
-            "connectionId": "00000000-0000-0000-0000-000000000000"
+            "connectionId": "144a529e-7a0f-48c0-ab7a-e7f20dba319d"
         }
     },
     "permissions": {
         "admin": [
-            {"type": "Group", "id": "00000000-0000-0000-0000-000000000000"}
-        ],
-        "contributor": [
-            {"type": "User", "id": "00000000-0000-0000-0000-000000000000"}
+            {"type": "User", "id": "52f1b003-1911-4fd1-8b58-3cc7bf6f72c2"}
         ]
     },
     "layers": {
